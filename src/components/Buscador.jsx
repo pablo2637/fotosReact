@@ -11,9 +11,9 @@ export const Buscador = ({ agregarCategoria }) => {
     return (
         <>
             <div>
-                <p>
+                {/* <p>
                     {JSON.stringify(formulario, null, 2)}
-                </p>
+                </p> */}
 
                 <p className="txt-center tit-h4 pad20">Buscador de Fotos - Galería</p>
 
